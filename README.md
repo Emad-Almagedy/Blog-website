@@ -20,3 +20,6 @@ packages used :
   6.  jsonwebtoken
   7.  cookie-parser
 
+  # NOTE:
+  extract the node_modules file and then run the server from the terminal ( npm run dev )
+
