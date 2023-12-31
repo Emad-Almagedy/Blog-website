@@ -23,3 +23,8 @@ packages used :
   # NOTE:
   extract the node_modules file and then run the server from the terminal ( npm run dev )
 
+
+  # 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Skam111&theme=blue-green)
+
