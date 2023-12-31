@@ -27,4 +27,6 @@ packages used :
   # 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Skam111&theme=blue-green)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Skam111)
+
 
